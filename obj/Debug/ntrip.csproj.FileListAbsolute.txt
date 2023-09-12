@@ -1,7 +1,0 @@
-D:\works\project\ntrip\bin\Debug\ntrip.exe.config
-D:\works\project\ntrip\bin\Debug\ntrip.exe
-D:\works\project\ntrip\bin\Debug\ntrip.pdb
-D:\works\project\ntrip\obj\Debug\ntrip.csproj.AssemblyReference.cache
-D:\works\project\ntrip\obj\Debug\ntrip.csproj.CoreCompileInputs.cache
-D:\works\project\ntrip\obj\Debug\ntrip.exe
-D:\works\project\ntrip\obj\Debug\ntrip.pdb
